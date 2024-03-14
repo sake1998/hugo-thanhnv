@@ -10,7 +10,7 @@ categories = [
 tags = [
     "markdown",
     "text",
-    "tag with whitespaces"
+    "tag with whitespaces b"
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 +++
