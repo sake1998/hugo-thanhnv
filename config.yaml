@@ -23,7 +23,7 @@ languages:
         weight: 2
         params:
             description: 演示说明
-            
+
 params:
     mainSections:
         - post
