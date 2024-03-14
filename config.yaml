@@ -17,6 +17,14 @@ languages:
         params:
             description: Example description
 
+    ar:
+        languageName: عربي
+        languagedirection: rtl
+        title: موقع تجريبي
+        weight: 3
+        params:
+            description: وصف تجريبي
+
 params:
     mainSections:
         - post
